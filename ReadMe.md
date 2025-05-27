@@ -1,5 +1,5 @@
 # Sport Results Notifier
-_by __smkP13__ for __thecsharpacademy___
+_by Zube Pierre Basali for __thecsharpacademy___
 
 ## Introduction
 This project is made to learn how to send email via an appliication using C#.
