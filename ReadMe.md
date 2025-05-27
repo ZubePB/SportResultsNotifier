@@ -2,7 +2,7 @@
 _by Zube Pierre Basali for __thecsharpacademy___
 
 ## Introduction
-This project is made to learn how to send email via an appliication using C#.
+This project is made to learn how to send email via an application using C#.
 Three method are used to fulfill it.
 
 ## Requirements
